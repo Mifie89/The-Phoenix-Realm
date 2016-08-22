@@ -84,9 +84,6 @@ object_tangible_wearables_armor_ris_armor_ris_gloves = object_tangible_wearables
 				"object/mobile/vendor/zabrak_female.iff",
 				"object/mobile/vendor/zabrak_male.iff" },
 	
-	-- Damage types in WeaponObject
-	vulnerability = LIGHTSABER,
-
 	-- These are default Blue Frog stats
 	healthEncumbrance = 1,
 	actionEncumbrance = 1,
@@ -104,7 +101,7 @@ object_tangible_wearables_armor_ris_armor_ris_gloves = object_tangible_wearables
 	heat = 15,
 	cold = 15,
 	acid = 15,
-	lightSaber = 0,
+	lightSaber = 15,
 
 	numberExperimentalProperties = {1, 1, 1, 1, 2, 2, 2, 2, 2, 1, 1, 2, 1},
 	experimentalProperties = {"XX", "XX", "XX", "XX", "OQ", "SR", "OQ", "UT", "MA", "OQ", "MA", "OQ", "MA", "OQ", "XX", "XX", "OQ", "SR", "XX"},

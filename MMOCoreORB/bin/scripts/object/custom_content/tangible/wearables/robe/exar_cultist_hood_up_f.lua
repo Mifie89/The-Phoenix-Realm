@@ -23,8 +23,8 @@ object_tangible_wearables_robe_exar_cultist_hood_up_f = object_tangible_wearable
 				customName = "Exar Kun Cultist Robe",
 
 				skillMods = {
- 				    {"jedi_force_power_max", 650},
-				    {"jedi_force_power_regen", 55}
+ 				    {"jedi_force_power_max", 250},
+				    {"jedi_force_power_regen", 10}
 				},
 
 				objectMenuComponent = "RobeObjectMenuComponent",

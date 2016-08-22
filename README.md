@@ -10,13 +10,13 @@ This Project Consist Of many Collaborators Over The Years Who Brought The Projec
 
 Collaboration Credit Is Given To The Following Contributors
 * https://github.com/TheAnswer
-* https://github.com/Xela-TheCreation
-* https://github.com/Yakone
-* https://github.com/Volinor
-* https://github.com/lasko-2112
-* https://github.com/Tatwi
+* https://github.com/Xela-TheCreation - FRS system Creator 
+* https://github.com/Yakone - Random NGE Item Additons
+* https://github.com/Volinor - Random NPC Additions / Loot /game Balanace Tweaks
+* https://github.com/lasko-2112 - TRE File Creator All NGE Weapons Cu Weapons / Ghomrassen Planet Creator 
+* https://github.com/Tatwi - Admin Tool Creator
 * https://github.com/ariochx
-* https://github.com/Levarrishawk/
+* https://github.com/Levarrishawk/ Dromund Kaas Planet Creator
 * https://github.com/aamedina	
 * https://github.com/Asnokat
 * https://github.com/bobyblack26
@@ -47,10 +47,16 @@ Collaboration Credit Is Given To The Following Contributors
 * https://github.com/Vorns
 * https://github.com/Warfeather
 * https://github.com/washu
-* https://github.com/Thrax989
-* BeetleJuice
-* Cadmus
-* Helios
-* Yoshimo
+* https://github.com/Thrax989 - Project Lead Creator 
+* https://github.com/terminator2014 - LOK General Bunker Creator
+* BeetleJuice - Random NPC Additions / Loot /game Balanace Tweaks
+* Cadmus - Random NPC Additions / Loot /game Balanace Tweaks
+* Helios - Random NPC Additions / Loot /game Balanace Tweaks
+* Yoshimo - Random NPC Additions / Loot /game Balanace Tweaks
+
+
+Please PM Me Your Addition To The Project To Have Full Credit For Your Contribution
+Message Me On SKYPE -
+Thereaper989
 
 Over The Course Of A Few Years Each Individual Has Added Some Portion To The Frame Work Or Code That Is Currently In This Repository.
